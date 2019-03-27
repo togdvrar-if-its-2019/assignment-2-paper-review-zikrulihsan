@@ -7,14 +7,14 @@
 [Paper Publication/Seminar]: 2017 International Electronics Symposium on Knowledge Creation and Intelligent Computing (IES-KCIC)
 
 ### Paper Structure
-I Introduction
-II Basic Theory
-III Detail Discussion
+*Introduction
+*Basic Theory
+*Detail Discussion
     * Scenario Game
     * Implementation Monotone Chain Convex Hull in Gameplay Game 
-IV Experiment And Analysis
-V Conclusion
-Reference
+*Experiment And Analysis
+*Conclusion
+*Reference
 
 ### Simple Resume
 Uthman Ibn Affan is one of the Companion of theProphet Muhammad Shallallahu 'alaihi wasallam that have many services for Islam in his lifetime. Even though the society is less known about the Uthman Ibn Affan history. This is because too little information facility about the history. Especially, now the tendency of society is more like something that satisfying and interactive, for example is game. So in this paper, the researcher propose the solution to handle the problem that had been explained before. The solution is new model to learn about history of Uthman Ibn Affan based on game. The gameplay of game application uses Monotone Chain Convex Hull algorithm to make game’s gameplay sensedmore interactive. In this game, player must draw an enclosed line for cover certain objects. The Monotone Chain Convex Hull algorithm purpose is to check the selected objects are proper with mission inside the game or not. This game is recommended for elementary age children, so this game’s main target can learn about the history of Uthman Ibn Affan from early with satisfying method. The researcher experimented with trying to play game’s gameplay that have implemented Monotone Chain Convex Hull algorithm in it. The result is the game’s gameplay runs well with a short programming process. the game is also tested by some elementary age children and they give good rating for this game. 
@@ -31,9 +31,9 @@ Graham Scan and Monotone Chain algorithms are two algorithms that work in 2D hul
 The initial idea of developing gameplay game that utilizes the Monotone Chain Convex Hull algorithm from Draw A Stickman gameplay game.
 
 ### Detail Discussion
-    * Scenario Game
+#### Scenario Game
     In this game application, there are three stages based on the history of Uthman ibn Affan. The first stage contains the story of purchasing the Ruma’s Well. The second stage contains the management of Baitul Mal. The third stage contains the story of incorporating Quran into one manuscript. Before entering on each stage, there is 2D animation in the form of comic moves.
-    * Implementation Monotone Chain Convex Hull in Gameplay Game 
+#### Implementation Monotone Chain Convex Hull in Gameplay Game 
     Contribution in this research is usage Monotone Chain Convex Hull algorithm in gameplay game. The use of this algorithm lies in the process of checking game input gameplay. Inputs are irregularly shaped lines drawn directly by the player through touch on the device screen
 ### Experiment And Analysis
 In this result, the researcher proove thatt raycast Unity also works well. The proof is the only bucket outside the line is detected outside the line. For example, if raycast is unsuccessful and only the Monotone Chain Convex Hull algorithm works then the bucket will be detected inside the line as it is within the convex hull region.
