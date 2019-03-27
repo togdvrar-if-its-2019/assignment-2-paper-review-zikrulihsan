@@ -7,14 +7,14 @@
 [Paper Publication/Seminar]: 2017 International Electronics Symposium on Knowledge Creation and Intelligent Computing (IES-KCIC)
 
 ### Paper Structure
-*Introduction
-*Basic Theory
-*Detail Discussion
-    * Scenario Game
-    * Implementation Monotone Chain Convex Hull in Gameplay Game 
-*Experiment And Analysis
-*Conclusion
-*Reference
+##### Introduction
+##### Basic Theory
+##### Detail Discussion
+    - Scenario Game
+    - Implementation Monotone Chain Convex Hull in Gameplay Game 
+##### Experiment And Analysis
+##### Conclusion
+##### Reference
 
 ### Simple Resume
 Uthman Ibn Affan is one of the Companion of theProphet Muhammad Shallallahu 'alaihi wasallam that have many services for Islam in his lifetime. Even though the society is less known about the Uthman Ibn Affan history. This is because too little information facility about the history. Especially, now the tendency of society is more like something that satisfying and interactive, for example is game. So in this paper, the researcher propose the solution to handle the problem that had been explained before. The solution is new model to learn about history of Uthman Ibn Affan based on game. The gameplay of game application uses Monotone Chain Convex Hull algorithm to make game’s gameplay sensedmore interactive. In this game, player must draw an enclosed line for cover certain objects. The Monotone Chain Convex Hull algorithm purpose is to check the selected objects are proper with mission inside the game or not. This game is recommended for elementary age children, so this game’s main target can learn about the history of Uthman Ibn Affan from early with satisfying method. The researcher experimented with trying to play game’s gameplay that have implemented Monotone Chain Convex Hull algorithm in it. The result is the game’s gameplay runs well with a short programming process. the game is also tested by some elementary age children and they give good rating for this game. 
