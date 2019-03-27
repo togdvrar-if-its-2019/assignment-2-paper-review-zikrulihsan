@@ -24,7 +24,9 @@ This game application is recommended for elementary age children. This is due to
 In the making of this game the researcher use Unity software. This mobile game app can only run on Android platform and it is offline, so it does not require any resources from outside the game system. the hope is that this game can become a medium of learning history Uthman ibn Affan for elementary school children. 
 ## Basic Theory
 This algorithm is an algorithm capable of determining the outermost region of a set of points. Then a set of obtained points is formed into a convex hull. The top frame is part of the convex hull that can be seen from above. It runs from the most points on the right to most point on the left in the opposite order clockwise. The bottom frame is the remaining part of the convex hull.
+##
 ![comparison](comparison.png)
+##
 Graham Scan and Monotone Chain algorithms are two algorithms that work in 2D hull. Both of these algorithms have almost the same speed. Both of these algorithms use ideas and implementations as the same stack. Both of these algorithms are algorithms that work very fast but the Monotone Chain algorithm will work a little faster. Monotone Chain has a more efficient sorting comparison and testing of rejection. 
 The initial idea of developing gameplay game that utilizes the Monotone Chain Convex Hull algorithm from Draw A Stickman gameplay game.
 
