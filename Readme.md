@@ -32,9 +32,9 @@ The initial idea of developing gameplay game that utilizes the Monotone Chain Co
 
 ### Detail Discussion
 #### Scenario Game
-    In this game application, there are three stages based on the history of Uthman ibn Affan. The first stage contains the story of purchasing the Ruma’s Well. The second stage contains the management of Baitul Mal. The third stage contains the story of incorporating Quran into one manuscript. Before entering on each stage, there is 2D animation in the form of comic moves.
+   In this game application, there are three stages based on the history of Uthman ibn Affan. The first stage contains the story of purchasing the Ruma’s Well. The second stage contains the management of Baitul Mal. The third stage contains the story of incorporating Quran into one manuscript. Before entering on each stage, there is 2D animation in the form of comic moves.
 #### Implementation Monotone Chain Convex Hull in Gameplay Game 
-    Contribution in this research is usage Monotone Chain Convex Hull algorithm in gameplay game. The use of this algorithm lies in the process of checking game input gameplay. Inputs are irregularly shaped lines drawn directly by the player through touch on the device screen
+   Contribution in this research is usage Monotone Chain Convex Hull algorithm in gameplay game. The use of this algorithm lies in the process of checking game input gameplay. Inputs are irregularly shaped lines drawn directly by the player through touch on the device screen
 ### Experiment And Analysis
 In this result, the researcher proove thatt raycast Unity also works well. The proof is the only bucket outside the line is detected outside the line. For example, if raycast is unsuccessful and only the Monotone Chain Convex Hull algorithm works then the bucket will be detected inside the line as it is within the convex hull region.
 
